@@ -5,7 +5,7 @@ projects:
   - name: cola-atps
     git:
       remotes:
-        origin: "git@github.com:la-county-isd/cola-atps.git"
+        origin: "https://github.com/la-county-isd/cola-atps.git"
       checkoutFrom:
         revision: main  
 components:
