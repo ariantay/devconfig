@@ -1,6 +1,13 @@
 schemaVersion: 2.1.0
 metadata:
   name: ruby-dev
+projects:
+  - name: cola-atps
+    git:
+      remotes:
+        origin: "git@github.com:la-county-isd/cola-atps.git"
+      checkoutFrom:
+        revision: main  
 components:
   - name: tools
     container:
