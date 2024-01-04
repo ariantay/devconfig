@@ -22,7 +22,7 @@ components:
           targetPort: 3000
       env:
         - name: SMTP_HOST
-          value: ''
+          value: ' '
         
     
        
