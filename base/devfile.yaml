@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: ruby-dev
+  name: cola-atps
 projects:
   - name: cola-atps
     git:
@@ -20,7 +20,7 @@ components:
         - exposure: public
           name: 'webserver'
           targetPort: 3000
-
+          
         
     
        
